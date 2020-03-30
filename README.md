@@ -32,8 +32,6 @@
 
 * 🔐Uma API de autenticação utilizando NodeJS, Express, MongoDB e Autenticação JWT. <br><br><br>
 
-<br>
-
 ## 💻 Como usar
 
 Para clonar e rodar essa aplicação você precisará do [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/download/) (que vem com [npm](http://npmjs.com)). 
@@ -70,4 +68,3 @@ Este projeto está sob a licença MIT. Consulte o [LICENSE](LICENSE.md) para obt
 Feito por Yuri Duarte :wave: [Entre em contato comigo!](https://www.linkedin.com/in/yuri-duarte/)
 :email: [yuriduartedev@gmail.com](mailto:yuriduartedev@gmail.com) &nbsp;
 GitHub: [github.com/yuriduarte](https://github.com/yuriduarte) &nbsp;
-
