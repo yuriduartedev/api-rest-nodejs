@@ -30,7 +30,7 @@
 
 ## 📋 Projeto
 
-* 🔐Uma API de autenticação utilizando NodeJS, Express, MongoDB e Autenticação JWT. <br><br>
+* 🔐Uma API de autenticação utilizando NodeJS, Express, MongoDB e Autenticação JWT. <br>
 
 ## 💻 Como usar
 
